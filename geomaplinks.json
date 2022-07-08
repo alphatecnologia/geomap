@@ -6,58 +6,52 @@
     "longitude" : -47.9733025319131
   },
   {
-    "key" : "PA",
-    "name" : "Pará",
-    "latitude" : -1.4554,
-    "longitude" : -48.4898
+    "key" : "TAG",
+    "name" : "Taguatinga",
+    "latitude" : -15.82035154748586,
+    "longitude" : -48.06449815288885
   },
   {
-    "key" : "MG",
-    "name" : "Minas Gerais",
-    "latitude" : -19.9102,
-    "longitude" : -43.9266
+    "key" : "SOB1",
+    "name" : "Sobradinho 01",
+    "latitude" : -15.655409939458943,
+    "longitude" : -47.80467172195588
   },
   {
-    "key" : "RR",
-    "name" : "Roraima",
-    "latitude" : 2.82384,
-    "longitude" : -60.6753
+    "key" : "GR1",
+    "name" : "Guara 1",
+    "latitude" : -15.818950036399416,
+    "longitude" : -47.983731559818416
   },
   {
-    "key" : "DF",
-    "name" : "Distrito Federal",
-    "latitude" : -15.7795,
-    "longitude" : -47.9297
+    "key" : "GR2",
+    "name" : "Guara 2",
+    "latitude" : -15.8395111169824,
+    "longitude" : -47.96614290399717
   },
   {
-    "key" : "MS",
-    "name" : "Mato Grosso do Sul",
-    "latitude" : -20.4486,
-    "longitude" : -54.6295
+    "key" : "SOB2",
+    "name" : "Sobradinho 2",
+    "latitude" : -15.650412761355716,
+    "longitude" : -47.78269012794459
   },
   {
-    "key" : "MT",
-    "name" : "Mato Grosso",
-    "latitude" : -15.601,
-    "longitude" : -56.0974
+    "key" : "ASN",
+    "name" : "Asa Norte",
+    "latitude" : -15.772468912810988,
+    "longitude" : -47.89270110001095
   },
   {
-    "key" : "PR",
-    "name" : "Paraná",
-    "latitude" : -25.4195,
-    "longitude" : -49.2646
+    "key" : "TGN",
+    "name" : "Taguatinga Norte",
+    "latitude" : -15.814057881210836,
+    "longitude" : -48.08339200203707
   },
   {
-    "key" : "SC",
-    "name" : "Santa Catarina",
-    "latitude" : -27.5945,
-    "longitude" : -48.5477
-  },
-  {
-    "key" : "CE",
-    "name" : "Ceará",
-    "latitude" : -3.71664,
-    "longitude" : -38.5423
+    "key" : "CEI",
+    "name" : "Ceilândia",
+    "latitude" : -48.105416773202144,
+    "longitude" : -15.802466198796234
   },
   {
     "key" : "GO",
